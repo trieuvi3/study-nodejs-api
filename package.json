@@ -1,0 +1,23 @@
+{
+  "name": "node_port",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trieuvi3/study-nodejs-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trieuvi3/study-nodejs-api/issues"
+  },
+  "homepage": "https://github.com/trieuvi3/study-nodejs-api#readme",
+  "dependencies": {
+    "express": "4.17.1"
+  }
+}
